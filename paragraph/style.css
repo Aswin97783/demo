@@ -1,0 +1,22 @@
+body{
+    padding: 0;
+    margin: 50px;
+}
+.novbar{
+    display: flex;
+    justify-content: space-between;
+
+}
+.novbarlef{
+    display: flex;
+    align-items: center;
+}
+
+.hov-heading{
+    display: flex;
+    justify-content: space-evenly;
+}
+.text1{
+    margin-top: 50px;
+
+}
